@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en" target-language="ru" original="CONSOLEMULTILANG/RESOURCE/LANGRESOURCE.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6914.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="CONSOLEMULTILANG/RESOURCE/LANGRESOURCE.RESX" datatype="resx">
+        <trans-unit id="off" translate="yes" xml:space="preserve">
+          <source>off</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Выкл.</target>
+        </trans-unit>
+        <trans-unit id="on" translate="yes" xml:space="preserve">
+          <source>on</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Вкл.</target>
+        </trans-unit>
+        <trans-unit id="open" translate="yes" xml:space="preserve">
+          <source>open</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">открыть</target>
+        </trans-unit>
+        <trans-unit id="Close" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">закрыть</target>
+        </trans-unit>
+        <trans-unit id="Curtain" translate="yes" xml:space="preserve">
+          <source>Curtain</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Штора</target>
+        </trans-unit>
+        <trans-unit id="Switch" translate="yes" xml:space="preserve">
+          <source>Switch</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Переключить</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_0" translate="yes" xml:space="preserve">
+          <source>Unknown notification</source>
+          <target state="new">Unknown notification</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_1" translate="yes" xml:space="preserve">
+          <source>was switched On</source>
+          <target state="new">was switched On</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_10" translate="yes" xml:space="preserve">
+          <source>Invalid Attempt:Force Lock</source>
+          <target state="new">Invalid Attempt:Force Lock</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_11" translate="yes" xml:space="preserve">
+          <source>Password Set</source>
+          <target state="new">Password Set</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_12" translate="yes" xml:space="preserve">
+          <source>Alarm Triggered</source>
+          <target state="new">Alarm Triggered</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_13" translate="yes" xml:space="preserve">
+          <source>Panic button caused alarm to trigger</source>
+          <target state="new">Panic button caused alarm to trigger</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_14" translate="yes" xml:space="preserve">
+          <source>Alarm Triggered by Zone</source>
+          <target state="new">Alarm Triggered by Zone</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_15" translate="yes" xml:space="preserve">
+          <source>Armed</source>
+          <target state="new">Armed</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_16" translate="yes" xml:space="preserve">
+          <source>Disarmed</source>
+          <target state="new">Disarmed</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_17" translate="yes" xml:space="preserve">
+          <source>Partition Armed</source>
+          <target state="new">Partition Armed</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_18" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <target state="new">Close</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_19" translate="yes" xml:space="preserve">
+          <source>WATrigger</source>
+          <target state="new">WATrigger</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_2" translate="yes" xml:space="preserve">
+          <source>was switched Off</source>
+          <target state="new">was switched Off</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_3" translate="yes" xml:space="preserve">
+          <source>was On</source>
+          <target state="new">was On</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_4" translate="yes" xml:space="preserve">
+          <source>was Off</source>
+          <target state="new">was Off</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_5" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <target state="new">Open</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_6" translate="yes" xml:space="preserve">
+          <source>User Added</source>
+          <target state="new">User Added</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_7" translate="yes" xml:space="preserve">
+          <source>User Removed</source>
+          <target state="new">User Removed</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_8" translate="yes" xml:space="preserve">
+          <source>Low Battery</source>
+          <target state="new">Low Battery</target>
+        </trans-unit>
+        <trans-unit id="NotificationCode_9" translate="yes" xml:space="preserve">
+          <source>Wake Up</source>
+          <target state="new">Wake Up</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
